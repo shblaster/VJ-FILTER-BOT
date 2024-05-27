@@ -67,7 +67,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', '@Yuva_raj777') # owner username 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Filter5_bot')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/SH_OTT')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Howto_openthislink')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Howto_openthislink/4')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/Howto_openthislink/4')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Filter5_bot') # Support Chat Link Without https:// or @
 
